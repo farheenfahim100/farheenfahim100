@@ -1,5 +1,7 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Farheen</h1>
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farheenfahim100&label=Profile%20views&color=0e75b6&style=flat" alt="farheenfahim100" /> </p>
 
 
 <!--
@@ -69,13 +71,8 @@ I am in my second year at the moment, and below is a list of all of the modules 
 - Data Analytics
 
 
-<h1 align="center">Hi 👋, I'm Farheen</h1>
-<h3 align="center">A Computer Science Student at the University of Warwick</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farheenfahim100&label=Profile%20views&color=0e75b6&style=flat" alt="farheenfahim100" /> </p>
 
-- 📫 How to reach me **farheenfahim100@gmail.com**
+📫 How to reach me **farheenfahim100@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
