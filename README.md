@@ -68,9 +68,3 @@ I am in my second year at the moment, and below is a list of all of the modules 
 
 
 
-## My LinkedIn Profile 
-
-![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
