@@ -13,27 +13,27 @@ I am currently studying Computer Science at the University of Warwick. I am work
 
 # My Projects (Reverse Chronological Order) 📚
 
-## Resolution Proof System in Prolog
+## Resolution Proof System in Prolog ✍️✅
 
 During my Logic & verification module in my second year of University, I had to complete the task of creating a resolution theorem prover in Prolog that can test whether a propositional formula is a logical consequence of a set of propositional formulas; this was done by using all of the skills learnt about the programming language and the resolution-proof system. Prolog is quite a different programming language to those I had encountered before, so this task came with added difficulty. 
 
-## Traffic Junction Simulation
+## Traffic Junction Simulation 🚦🚗
 
 During my Software Development module in my second year of University, I had to complete a group project in which we were to build some software (using the methods and practices learnt in lectures) for a client which simulates a Traffic Junction's flow of traffic. It sounds like a basic project, however, simulating the movement and flow of cars, as well as the changing of traffic lights, and additional features such as adding bus lanes, left turn lanes, varying traffic light sequences, etc., the task became more and more complex. Additionally, working in a team further added complexity, since the project required effective communication, teamwork, and collaboration.
 
-## Minimax Algorithm Implemented for Connect 4+
+## Minimax Algorithm Implemented for Connect 4+ 🟡🔴
 
 During my Artificial Intelligence module in my second year of University, I had to complete the task of implementing the Minimax Algorithm for a player of the game Connect 4. Additionally, this had to work for Connect 4 with different game configurations, such as 3x3 grid and 3 pieces needed to win, or 5x8 with 6 pieces needed to win, etc. 
 
 This involved applying knowledge of the existing Minimax algorithm, researching heuristics to complete the task quicker, and also, writing a report on the performance of Minimax, compared to Mimimax with Alpha-Beta Pruning. The topic of Artificial Intelligence interests me a lot, therefore, I plan on coding more projects involving this topic.
 
-## A Basic Intrusion Detection System
+## A Basic Intrusion Detection System 🕵️
 
 During my Operating Systems & Networks module in my second year of university, I had to develop software to efficiently intercept internet packets and navigate through packet headers, detect specific malicious activities (e.g., SYN attacks, ARP cache Poisoning attacks, Blacklisted URL detection) and show them on the terminal, implement a threading strategy to allow efficient detection of the attacks when there is high traffic, write a report discussing the implementation of multi-threading (including issues like efficiency, synchronisation, signal handling, memory safety, and testing.
 
 I completed this task in C. This project was extremely useful in developing my skills in C, and in developing my understanding of key topics relating to the processing of packets and multi-threading. 
 
-## Creating an in-depth Database System for Concerts
+## Creating an in-depth Database System for Concerts 🎶🎫
 
 During my Database Systems module in my second year of University, I had to complete the task of creating an entire Database System for concert acts, gigs, customers, and tickets. This involved creating the database, performing multiple complex queries to ensure the integrity of the database, and performing other queries to show specific data. Multiple rules were provided such as acts may not perform at the same time in multiple places, and they must have at least an hour gap between the time they perform at different locations. Therefore, this was a large task and it involved designing well-thought-out queries and making use of declarative code over procedural code.
 
