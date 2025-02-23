@@ -11,7 +11,7 @@ I am currently studying Computer Science at the University of Warwick. I am work
 - HTML/CSS/Javascript
 
 
-# My Projects (Reverse Chronological Order) 📚
+# Examples of my Projects (Reverse Chronological Order) 📚
 
 ## Resolution Proof System in Prolog ✍️✅
 
