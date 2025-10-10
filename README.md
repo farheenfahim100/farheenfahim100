@@ -58,7 +58,7 @@ Since the project, I have not had much time to improve on this project and add n
 
 # Academics and Modules 📓
 
-I am in my second year at the moment, and below is a list of all of the modules I have completed so far:
+I am in my third year at the moment, and below is a list of all of the modules I have completed so far:
 
 ## Year 1 Modules:
 
@@ -81,6 +81,17 @@ I am in my second year at the moment, and below is a list of all of the modules 
 - Software Development
 - Logic & Verification
 - Data Analytics
+
+
+## Year 3 Modules:
+
+- Dissertation Project
+- Machine Learning
+- Project Management
+- Responsible Computing
+- Neural Networks
+- Advanced Databases
+- Digital Forensics
 
 
 # Other Information
