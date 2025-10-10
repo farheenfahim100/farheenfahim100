@@ -2,7 +2,7 @@
 
 # About me 😁
 
-I am currently studying Computer Science at the University of Warwick. I am working towards my BSc, but am also hoping to complete an MSc in the field. I have experience in coding in the following programming languages:
+I am currently studying Computer Science at the University of Warwick. I am working towards my BSc and I have experience in coding in the following programming languages:
 
 - Python
 - Java
