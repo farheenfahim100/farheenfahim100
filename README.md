@@ -55,6 +55,7 @@ Since the project, I have not had much time to improve on this project and add n
 
 - A mobile application of some sort to get experience with app development
 - Software which allows Computer Science students to visualise concepts/algorithms
+- An F1 Machine Learning model to predict race outcomes, and comparing the accuracy of different ML methods for completing this task.
 
 # Academics and Modules 📓
 
