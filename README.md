@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Farheen</h1>
+<h1 align="center">Hi, I'm Farheen</h1>
 
-# About me 😁
+# About me 
 
 I am currently studying Computer Science at the University of Warwick. I am working towards my BSc and I have experience in coding in the following programming languages:
 
@@ -58,14 +58,14 @@ Since the project, I have not had much time to improve on this project and add n
 
 # Academics and Modules 📓
 
-I am in my third year at the moment, and below is a list of all of the modules I have completed so far:
+I am in my third year at the moment. Below is a list of all of the modules I have completed so far and the modules I am currently studying:
 
 ## Year 1 Modules:
 
 - Programming for Computer Scientists
 - Design of Information Structures
-- Mathematics for Computer Scientists I
-- Mathematics for Computer Scientists II
+- Mathematics for Computer Scientists 1
+- Mathematics for Computer Scientists 2
 - Computer Organisation and Architecture
 - Professional Skills
 - Web Development
